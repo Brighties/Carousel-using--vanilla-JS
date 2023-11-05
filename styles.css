@@ -23,7 +23,9 @@
     background: rgb(8, 89, 92);
     display: none;
 }
-
+.carousel__item--content{
+    margin-bottom: 20px;
+}
 .carousel__item--selected{
     display: block;
 }
